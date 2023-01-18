@@ -1,7 +1,7 @@
 
 `timescale 1ns / 1ps
 
-module HW6_1(clk,rst,sw,Dinout,LED);
+module source(clk,rst,sw,Dinout,LED);
 
 input clk,rst,sw;
 inout  Dinout;
